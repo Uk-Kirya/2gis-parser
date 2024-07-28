@@ -10,3 +10,9 @@
 
 ### Link to get 2Gis API
 Open this link — https://dev.2gis.ru/api#form and read info to get API
+
+### How work
+1. Enter `/start`
+2. Enter the City
+3. Enter the category or name of the company/object
+4. Bot creates a file `City_company.xls` and a link to download it
