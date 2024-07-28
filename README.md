@@ -16,3 +16,6 @@ Open this link — https://dev.2gis.ru/api#form and read info to get API
 2. Enter the City
 3. Enter the category or name of the company/object
 4. Bot creates a file `City_company.xls` and a link to download it
+
+### Python Version
+The bot is written using Python version `3.12`
