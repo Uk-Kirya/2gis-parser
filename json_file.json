@@ -1,0 +1,83 @@
+{
+    "meta": {
+        "api_version": "3.0.17900",
+        "code": 200,
+        "issue_date": "20240728"
+    },
+    "result": {
+        "items": [
+            {
+                "address_comment": "2 этаж",
+                "address_name": "Страстной бульвар, 8а",
+                "id": "70000001048944354",
+                "name": "The Бык, демократичный мясной ресторан",
+                "type": "branch"
+            },
+            {
+                "address_comment": "1 этаж",
+                "address_name": "переулок Каменная Слобода, 13/6",
+                "id": "70000001057218565",
+                "name": "Nicepricecafe, кафе",
+                "type": "branch"
+            },
+            {
+                "address_comment": "1 этаж",
+                "address_name": "улица Мясницкая, 47",
+                "id": "70000001063185335",
+                "name": "Nicepricecafe, кафе",
+                "type": "branch"
+            },
+            {
+                "address_comment": "-2 этаж; Средний уровень",
+                "address_name": "Манежная площадь, 1 ст2",
+                "id": "70000001007179642",
+                "name": "Му-Му, сеть кафе",
+                "type": "branch"
+            },
+            {
+                "address_comment": "2 этаж",
+                "address_name": "Большая Тульская улица, 13",
+                "id": "70000001068109619",
+                "name": "The Бык, демократичный мясной ресторан",
+                "type": "branch"
+            },
+            {
+                "address_comment": "-1, 1 этаж",
+                "address_name": "Пятницкая улица, 54 ст2",
+                "id": "70000001048389948",
+                "name": "Nicepricecafe, кафе",
+                "type": "branch"
+            },
+            {
+                "address_comment": "2 этаж",
+                "address_name": "проспект Мира, 114Б ст2",
+                "id": "70000001069174719",
+                "name": "The Бык, демократичный мясной ресторан",
+                "type": "branch"
+            },
+            {
+                "address_comment": "1 этаж",
+                "address_name": "Новая площадь, 8 ст2",
+                "id": "70000001047394845",
+                "name": "Двойная жизнь Вероники, бар",
+                "type": "branch"
+            },
+            {
+                "address_comment": "1 этаж",
+                "address_name": "Хохловский переулок, 7-9 ст2",
+                "id": "70000001037390489",
+                "name": "Blanc, ресторан европейской кухни",
+                "type": "branch"
+            },
+            {
+                "address_name": "Берсеневская набережная, 14 ст5",
+                "full_name": "Москва, Берсеневская набережная, 14 ст5",
+                "id": "4504127908704404",
+                "name": "Стрелка, культовый бар",
+                "purpose_name": "Кафе, бар",
+                "type": "branch"
+            }
+        ],
+        "total": 8071
+    }
+}
