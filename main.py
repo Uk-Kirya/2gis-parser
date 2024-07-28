@@ -3,8 +3,8 @@ import requests
 import pandas as pd
 import json
 
-API_KEY = '73e483cc-a78a-42b3-a250-2ff048c4a71d'
-BOT_TOKEN = '7039231582:AAEFRQBZU_adEZrp_SAN31lzhk1HzLNIalk'
+API_KEY = 'API FROM 2GIS SERVICE'
+BOT_TOKEN = 'BOT TOKET'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
@@ -103,8 +103,6 @@ def process_query_step(message, city):
     companies = get_companies(city_id, place)
     file_path = create_xls(companies, city, place)
     bot.reply_to(message, 'Информация сохранена. Формирую список ...')
-    with open('json_file.json', 'w') as file:
-        json.dump(companies, file, ensure_ascii=False, indent=4)
 
     with open(file_path, 'rb') as f:
         bot.send_document(message.chat.id, f)
