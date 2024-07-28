@@ -2,6 +2,8 @@
 ## This bot make parser from 2Gis service
 ### How to install
 
+The bot generates a file with the selected city and company category, in which it writes data about each company (city, district, service category, company name, phone and mail). It will be especially useful for the sales department who make phone calls for marketing purposes
+
 1. Download Bot (git clone or Download ZIP)
 2. Install requirements `pip install -r requirements.txt`
 3. Enter your API from 2Gis service
